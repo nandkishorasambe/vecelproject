@@ -14,6 +14,7 @@ function App() {
            nandkishor asambe
            at post khearda 
           </p>
+          <h1>new applications</h1>
         </div>
        
       </section>
